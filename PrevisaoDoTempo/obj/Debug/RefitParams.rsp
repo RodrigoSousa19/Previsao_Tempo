@@ -1,0 +1,9 @@
+API\HGResponse.cs
+API\IApiService.cs
+Core.cs
+Core.Designer.cs
+Program.cs
+Properties\AssemblyInfo.cs
+Properties\Resources.Designer.cs
+Properties\Settings.Designer.cs
+obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.cs
